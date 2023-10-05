@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Let us know about a bug in the client
+about: Let us know about a bug in an interface
 title: "[BUG]"
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is, and where you want it to be added (client, website etc).
 
 **To Reproduce**
 Steps to reproduce the behavior:
